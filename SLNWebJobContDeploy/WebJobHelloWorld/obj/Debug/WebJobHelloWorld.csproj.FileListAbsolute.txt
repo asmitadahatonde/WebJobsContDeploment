@@ -1,0 +1,6 @@
+D:\WebJobsContDeploy\SLNWebJobContDeploy\WebJobHelloWorld\bin\Debug\WebJobHelloWorld.exe.config
+D:\WebJobsContDeploy\SLNWebJobContDeploy\WebJobHelloWorld\bin\Debug\WebJobHelloWorld.exe
+D:\WebJobsContDeploy\SLNWebJobContDeploy\WebJobHelloWorld\bin\Debug\WebJobHelloWorld.pdb
+D:\WebJobsContDeploy\SLNWebJobContDeploy\WebJobHelloWorld\obj\Debug\WebJobHelloWorld.csprojResolveAssemblyReference.cache
+D:\WebJobsContDeploy\SLNWebJobContDeploy\WebJobHelloWorld\obj\Debug\WebJobHelloWorld.exe
+D:\WebJobsContDeploy\SLNWebJobContDeploy\WebJobHelloWorld\obj\Debug\WebJobHelloWorld.pdb

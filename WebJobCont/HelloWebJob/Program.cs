@@ -16,7 +16,7 @@ namespace HelloWebJob
         /// </summary>
         public static void Main()
         {
-            Console.WriteLine("Hello WOB JOBS .... this is changed again and again and again :) !!");
+            Console.WriteLine("Hello WOB JOBS .... this is changed WebJob :) !!");
             Console.ReadLine();
             var host = new JobHost();
 

@@ -14,7 +14,7 @@ namespace WebJob2
         // AzureWebJobsDashboard and AzureWebJobsStorage
         public static void Main()
         {
-            Console.WriteLine("Inside WebJob2 .... this WebJob v1.0 :) !!");
+            Console.WriteLine("Inside WebJob2 .... this WebJob v2.0 :) !!");
             Console.ReadLine();
 
             var host = new JobHost();

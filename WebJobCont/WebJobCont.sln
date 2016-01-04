@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B4DAA8
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJob2", "WebJob2\WebJob2.csproj", "{743A6277-36A3-44B8-9853-106F12C6A30E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{8F8C007A-A971-42BA-B5F4-A2F10010B304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F8C007A-A971-42BA-B5F4-A2F10010B304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F8C007A-A971-42BA-B5F4-A2F10010B304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743A6277-36A3-44B8-9853-106F12C6A30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743A6277-36A3-44B8-9853-106F12C6A30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743A6277-36A3-44B8-9853-106F12C6A30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743A6277-36A3-44B8-9853-106F12C6A30E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

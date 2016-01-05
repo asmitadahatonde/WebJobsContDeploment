@@ -81,6 +81,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\aniruddhadiwakar.pubxml" />
+    <None Include="Properties\PublishProfiles\aniruddhadiwakarwebapp.pubxml" />
     <None Include="Properties\PublishProfiles\asmitawebjobscontdeployment.pubxml" />
     <None Include="Properties\webjob-publish-settings.json" />
   </ItemGroup>
